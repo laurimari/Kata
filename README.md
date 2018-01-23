@@ -1,0 +1,2 @@
+# Kata
+Compte bancaire simple
